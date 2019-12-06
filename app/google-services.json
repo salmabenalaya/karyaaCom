@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "126959231562",
+    "firebase_url": "https://karyaacom.firebaseio.com",
+    "project_id": "karyaacom",
+    "storage_bucket": "karyaacom.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:126959231562:android:16249a3d83c53773513cb3",
+        "android_client_info": {
+          "package_name": "com.example.karyaacom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "126959231562-htlulk4tl1cgvoos2g8l6t503doer12q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.karyaacom",
+            "certificate_hash": "dd8441eea679cfbabb23e8fdef57467e010dfa6a"
+          }
+        },
+        {
+          "client_id": "126959231562-549rus1s76kru8johsggb0r8kc1druhc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgeMKGC0S9IMr_5UmC7d_vGQXu-rEKb5Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "126959231562-549rus1s76kru8johsggb0r8kc1druhc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
