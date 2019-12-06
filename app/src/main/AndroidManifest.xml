@@ -10,7 +10,6 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity android:name=".design_button_input.Button"></activity>
-        <activity android:name=".Activities.Description" />
         <activity android:name=".Activities.Home">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
